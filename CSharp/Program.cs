@@ -10,8 +10,14 @@ Console.WriteLine("O numero decimal é: "+numeroDecimal);
 Console.WriteLine("A moeda é: "+moeda);
 Console.WriteLine("A letra é: "+letra);
 Console.WriteLine("O nome é: "+nome);
+Console.WriteLine("O numero é: " + numero);
+Console.WriteLine("O numero decimal é: " + numeroDecimal);
+Console.WriteLine("A moeda é: " + moeda);
+Console.WriteLine("A letra é: " + letra);
+Console.WriteLine("O nome é: " + nome);
 
-if(numero == 1){
+
+if (numero == 1){
     Console.WriteLine("O numero é 1");
 
 }
